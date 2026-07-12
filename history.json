@@ -6,5 +6,13 @@
   "long_active": false,
   "short_gate": true,
   "regime": "BEAR"
+ },
+ {
+  "date": "2026-07-11",
+  "price": 64137.7,
+  "stance": "中性偏空(做空條件成立)",
+  "long_active": false,
+  "short_gate": true,
+  "regime": "BEAR"
  }
 ]
