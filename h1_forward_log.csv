@@ -1,1 +1,2 @@
 entry_ts,entry_idx,day,entry_price,p_inflow,net_in_prev,status,net,contrib,reason,logged_at,resolved_at,note
+2026-07-23T00:00:00,7523,2026-07-23,65405.3,,,open,,,,2026-07-23T16:16:07+00:00,,"no_netflow(CM 尾端缺,無法鎖分位)"
