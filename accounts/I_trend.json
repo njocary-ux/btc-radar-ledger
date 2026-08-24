@@ -1,6 +1,6 @@
 {
-  "equity": 0.996839018023006,
-  "peak": 1.0,
+  "equity": 1.00350440290707,
+  "peak": 1.00350440290707,
   "position": {
     "side": "long",
     "entry": 77301.2,
@@ -8,12 +8,12 @@
     "size": 1.0
   },
   "halted": false,
-  "ticks": 3,
+  "ticks": 6,
   "trades": [],
   "log": [
     "2026-08-22T08:22:39+00:00 | [I_trend] 進場做多 size1.00(regime=BULL,年化波動44.8%)"
   ],
   "pos": 1.0,
-  "last_price": 77095.4,
+  "last_price": 77610.9,
   "entry_equity": 0.9995
 }
